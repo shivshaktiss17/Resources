@@ -1,6 +1,6 @@
 # Resources
 
-## Adding aa few resources which is going to help for a computer science candidate
+## Adding a few resources which is going to help for a computer science candidate
 
 - ### Leetcode Resources -
   - (1). Cheatsheet - https://leetcode.com/explore/interview/card/cheatsheets/720/resources/4725/
