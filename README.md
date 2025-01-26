@@ -12,4 +12,4 @@
 
 - ### Other Resources -
   - (1). Neetcode - https://neetcode.io/
-  - (2). 
+  - (2). Interview Preparation Kit - https://www.interviewbit.com/technical-interview-questions/ 
